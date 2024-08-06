@@ -2,6 +2,11 @@
  
 This repository demonstrates the Gitflow workflow for managing monthly product releases.
 
+## GitHub Repository Link
+Click Here To View
+[Zendriix Software Git Workflow](https://github.com/Bapugouda-B/zendrix-soft)
+
+
 ## Branches
 
 - **master**: Production-ready code.
